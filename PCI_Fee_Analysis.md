@@ -19,7 +19,7 @@ The following summary contains all results possible to calculate based on the da
 
 Program | Initial Fee | Annual Fee |
 ------- | ----------- | ---------- |
-Participating Organizations | $2,876,250 | $2,876,250
+Participating Organizations | $3,067,500 | $3,067,500
 Approved Scanning Vendor (ASV) Program | *N/A* | $1,906,850
 Internal Security Assessor (ISA) Program | $2,568,410 | $1,881,210
 Payment Application-QSA (PA-QSA) Program | $13,235,400 | $600,820
@@ -30,7 +30,7 @@ Point-to-Point Encryption (P2PE) Program | $1,254,400 | $171,600
 Qualified Integrators and Resellers (QIR)™ Program | $412,800 | $344,000
 Qualified Security Assessor (QSA) Program | $15,520,400 | $8,283,000
 Community Meeting Revenue | *N/A* | $600,000
-**TOTALS** | **$42,933,820** | **$18,771,480**
+**TOTALS** | **$43,125,070** | **$18,962,730**
 
 The following two graphs break out the difference in program revenues visually. The QSA program, one of the first two launched by the Council, is by far the largest revenue generator. This makes sense given the number of firms who play in the assessment space and the general demand for assessment services.
 
@@ -67,7 +67,7 @@ These programs represent the majority of the different sources, but there are ad
 \* These fee programs do not have any public data on their usage. 
 
 #### Initial vs. Annual Fees
-One element that may seem strange to you is the distinction between an Initial fee and an Annual fee. Nearly all of the programs put on by the Council have both. The Initial fee is the first fee an entity pays to become listed or join the program. It is often higher (usually 2x the annual fee), but not in every case. This is a one-time revenue bump. So when you consider the initial understated revenues of $42,933,820 for all of the programs, keep in mind that this revenue has been trickling in since 2006 when the Council launched. Acquirer and Awareness training revenue would increase this number as it is not guaranteed year over year.
+One element that may seem strange to you is the distinction between an Initial fee and an Annual fee. Nearly all of the programs put on by the Council have both. The Initial fee is the first fee an entity pays to become listed or join the program. It is often higher (usually 2x the annual fee), but not in every case. This is a one-time revenue bump. So when you consider the initial understated revenues of $43,125,070 for all of the programs, keep in mind that this revenue has been trickling in since 2006 when the Council launched. Acquirer and Awareness training revenue would increase this number as it is not guaranteed year over year.
 
 Annual fees, as defined, come in every year. This analysis considers Community Meeting as annual because there are multiple meetings in various regions around the world. The numbers are slightly understated due to a number of assumptions that are outlined in both this document and the [PCI Analysis.R](PCI Analysis.R) document included in this package. Given the conservative nature of these assumptions, it's a virtual guaranteeing that the actual revenue is greater than what is calculated here. The only way it could be lower is if people are getting a free pass (not paying their fees) or an accounting error.
 
@@ -138,7 +138,7 @@ Some other programs do not have the same kind of data available such as the numb
 * Initial PCIP revenue: $3,614,910
 * Initial ISA revenue: $2,568,410
 * Annual ISA Requalificaation Revenue: $1,881,210
-* Annual Participating Organization Revenue: $2,876,250
+* Annual Participating Organization Revenue: $3,067,500
 
 ### What about the fees you can't estimate?
 Several of you have pointed out *there are a number of additional fees* we can't really capture here. Fees associated with firms who come and go, reinstatement fees for firms that end up a non-current state, remediation fees for firms that find themselves in the cross hairs of the [controversial QA program](https://blog.anitian.com/the-failure-of-the-pci-dss/), one-off training sessions, and paid speaking engagements. It's safe to assume those numbers are greater than zero and reach into six figures annually.

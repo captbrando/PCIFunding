@@ -13,7 +13,7 @@ source("PCI Analysis.R")
 # Update these numbers to get better counts.
 currentPCIPcount <- 2418
 currentISAcount <- 1718
-currentPOcount <- 767
+currentPOcount <- 818
 currentP2PESolutionCount <- 28
 
 # Calculations for the tables below. This is more for readability than
