@@ -1,14 +1,11 @@
 # Load some stuff.
 
 ## Load some libs
-library(dplyr)
-library(tidyr)
-library(readr)
+library(tidyverse)
 library(stringr)
 library(data.table)
 library(lazyeval)
 library(splitstackshape)
-library(ggplot2)
 
 # Grab my user defined functions.
 source("functions.R")
