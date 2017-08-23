@@ -13,8 +13,8 @@ source("PCI Analysis.R")
 # Update these numbers to get better counts.
 currentPCIPcount <- 2418
 currentISAcount <- 1718
-currentPOcount <- 818
-currentP2PESolutionCount <- 28
+currentPOcount <- 951
+currentP2PESolutionCount <- 37
 
 # Calculations for the tables below. This is more for readability than
 # anything else. Makes the Rmd document a bit easier to deal with.
