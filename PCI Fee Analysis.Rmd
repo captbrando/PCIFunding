@@ -11,10 +11,13 @@ options(scipen=999) # Remove scientific notation.
 source("PCI Analysis.R")
 
 # Update these numbers to get better counts.
+#
+# Last update, 3 April 2018
+# Only udated PO and P2PE.
 currentPCIPcount <- 2418
 currentISAcount <- 1718
-currentPOcount <- 951
-currentP2PESolutionCount <- 37
+currentPOcount <- 791
+currentP2PESolutionCount <- 53
 
 # Calculations for the tables below. This is more for readability than
 # anything else. Makes the Rmd document a bit easier to deal with.
