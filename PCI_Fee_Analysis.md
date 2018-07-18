@@ -103,7 +103,7 @@ The Council collected an aggregate amount of $6,431,600 for the initial training
 Total initial fees for the QSA program are $16,348,100.
 
 ### Annual Fees
-Annually, the Council collects an additional $5,082,000 annually from the current set of QSA companies. Given the same assumptions above, which are not far off from the numbers presented at the 2017 Community meeting (2,061 QSAs), they also collect an additional $5,082,000 from each individual's re-qualification fee. Combined, that's a total of $8,701,000.
+Annually, the Council collects an additional $5,082,000 annually from the current set of QSA companies. Given the same assumptions above, which are not far off from the numbers presented at the 2016 Community meeting (2,061 QSAs), they also collect an additional $5,082,000 from each individual's re-qualification fee. Combined, that's a total of $8,701,000.
 
 ## The ASV Program
 This key program is a little difficult to estimate the total annual revenue. ASVs will pay an annual fee, which is the same as the initial qualification test. They can take advantage of a Mid-year test, for example, if they do material changes or upgrades to their engine, they pay for retests if they fail, and there is an ASV training program for any individual associated with the results. There are 100 current ASVs, which at a minimum translates to $1,250,000 of annual revenue. Now comes the assumptions. Let's assume that 5% of companies require some kind of retest ($32,500), 2% of companies take advantage of the mid-year check ($13,000), and four employees from each firm require training  ($438,000). This represents a total of $1,733,500.
